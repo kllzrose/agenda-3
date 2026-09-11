@@ -1,0 +1,15 @@
+C:\Users\PC-1\source\repos\SolucionCapas\SolucionCapas.Negocio\bin\Debug\net8.0\SolucionCapas.Negocio.deps.json
+C:\Users\PC-1\source\repos\SolucionCapas\SolucionCapas.Negocio\bin\Debug\net8.0\SolucionCapas.Negocio.dll
+C:\Users\PC-1\source\repos\SolucionCapas\SolucionCapas.Negocio\bin\Debug\net8.0\SolucionCapas.Negocio.pdb
+C:\Users\PC-1\source\repos\SolucionCapas\SolucionCapas.Negocio\bin\Debug\net8.0\SolucionCapas.Datos.dll
+C:\Users\PC-1\source\repos\SolucionCapas\SolucionCapas.Negocio\bin\Debug\net8.0\SolucionCapas.Datos.pdb
+C:\Users\PC-1\source\repos\SolucionCapas\SolucionCapas.Negocio\obj\Debug\net8.0\SolucionCapas.Negocio.csproj.AssemblyReference.cache
+C:\Users\PC-1\source\repos\SolucionCapas\SolucionCapas.Negocio\obj\Debug\net8.0\SolucionCapas.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\source\repos\SolucionCapas\SolucionCapas.Negocio\obj\Debug\net8.0\SolucionCapas.Negocio.AssemblyInfoInputs.cache
+C:\Users\PC-1\source\repos\SolucionCapas\SolucionCapas.Negocio\obj\Debug\net8.0\SolucionCapas.Negocio.AssemblyInfo.cs
+C:\Users\PC-1\source\repos\SolucionCapas\SolucionCapas.Negocio\obj\Debug\net8.0\SolucionCapas.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\SolucionCapas\SolucionCapas.Negocio\obj\Debug\net8.0\Solucion.93AE1B5A.Up2Date
+C:\Users\PC-1\source\repos\SolucionCapas\SolucionCapas.Negocio\obj\Debug\net8.0\SolucionCapas.Negocio.dll
+C:\Users\PC-1\source\repos\SolucionCapas\SolucionCapas.Negocio\obj\Debug\net8.0\refint\SolucionCapas.Negocio.dll
+C:\Users\PC-1\source\repos\SolucionCapas\SolucionCapas.Negocio\obj\Debug\net8.0\SolucionCapas.Negocio.pdb
+C:\Users\PC-1\source\repos\SolucionCapas\SolucionCapas.Negocio\obj\Debug\net8.0\ref\SolucionCapas.Negocio.dll
